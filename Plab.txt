@@ -1,0 +1,3 @@
+1. Learn how the Github Pages run
+2. Learn how to bind the domain name to the Github Pages
+3. Fix the problem that user from China Mainland cannot visit the Github Pages
