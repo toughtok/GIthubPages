@@ -1,3 +1,9 @@
 1. Learn how the Github Pages run
 2. Learn how to bind the domain name to the Github Pages
 3. Fix the problem that user from China Mainland cannot visit the Github Pages
+
+
+Some knowledge should be known before:
+1. How to buy a domain name
+2. How to resolve a domain name 
+For the question above, check the answer on Tencent Yun Website.
