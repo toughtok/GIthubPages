@@ -7,3 +7,13 @@ Some knowledge should be known before:
 1. How to buy a domain name
 2. How to resolve a domain name 
 For the question above, check the answer on Tencent Yun Website.
+
+
+
+
+Should I first know how to built website OR how to use Github Page?
+
+Let me check Tecent CLoud first..............................It seems like I just need to learn GP(reffer to Github Pages).
+
+Add ouououoc.com in setting/pages        [checked]  [reffer:https://cloud.tencent.com/document/product/302/12648]
+Learn the GB document		[]
