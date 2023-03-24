@@ -17,3 +17,17 @@ Let me check Tecent CLoud first..............................It seems like I jus
 
 Add ouououoc.com in setting/pages        [checked]  [reffer:https://cloud.tencent.com/document/product/302/12648]
 Learn the GB document		[]
+
+
+
+Now we rewind/reconsider the process which confused me a lot, how to describe the fuzzy difficulties?:
+
+1. How we map our own domain name to the GP?
+: In the GP settings? it seems there're 2 setting webpage:
+  1. https://github.com/settings/pages
+  2. https://github.com/toughtok/toughtok.github.io/settings/pages
+  So, what's the difference between the two webpage?
+
+2. DNS resolves in Tencent Cloud, why [记录类型]A is conflict with [记录类型]CNAME ? Even though I succeed in setting [记录类型]A with th IP(185.199.108.153), I don't know why. The domain name was suddenly accessed inexplicably/bafflingly. What's the substantial changes in my operation?
+
+3. About the https://?
