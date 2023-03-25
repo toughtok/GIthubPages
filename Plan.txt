@@ -32,6 +32,9 @@ Now we rewind/reconsider the process which confused me a lot, how to describe th
 
 3. About the https://?
 
+4.When i use other people's iphone to visit my domain name(ouououoc.com), it took a long time to resolve, why?
+  Did it has something to do with 运营商?..........
+
 
 
 
@@ -72,3 +75,4 @@ Now we rewind/reconsider the process which confused me a lot, how to describe th
 
 The web resource i looked up:
 https://zhuanlan.zhihu.com/p/529826545
+https://docs.github.com/en/pages
